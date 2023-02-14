@@ -749,7 +749,7 @@ p {
     height: 100%;
     float: none;
     clear: none;
-    background-image: url('../images/Group-23-2.png');
+    background-image: url('../images/Group-23-3.png');
     background-position: 50% 50%;
     background-size: cover;
     text-align: center;
@@ -941,6 +941,12 @@ p {
   .div-block-10 {
     width: 150px;
     height: 150px;
+  }
+
+  .div-block-11 {
+    background-image: url('../images/Group-23-3.png');
+    background-position: 50% 50%;
+    background-size: cover;
   }
 
   .heading {
@@ -1168,6 +1174,9 @@ p {
   .div-block-11 {
     width: 80px;
     height: 80px;
+    background-image: url('../images/Group-23-3.png');
+    background-position: 50% 50%;
+    background-size: cover;
   }
 
   .heading {
